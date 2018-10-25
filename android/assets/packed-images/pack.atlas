@@ -1,0 +1,167 @@
+
+pack.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackButton
+  rotate: false
+  xy: 2, 2
+  size: 187, 192
+  orig: 187, 192
+  offset: 0, 0
+  index: -1
+StartScreenBackground
+  rotate: false
+  xy: 2052, 2987
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+StudentButtonSkin
+  rotate: false
+  xy: 2, 1620
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+TeacherButtonSkin
+  rotate: false
+  xy: 2, 538
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+apple
+  rotate: false
+  xy: 3017, 437
+  size: 245, 340
+  orig: 245, 340
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 2702
+  size: 2048, 1365
+  orig: 2048, 1365
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 2726, 1463
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+boat
+  rotate: false
+  xy: 3263, 1121
+  size: 286, 340
+  orig: 286, 340
+  offset: 0, 0
+  index: -1
+cat
+  rotate: false
+  xy: 2579, 319
+  size: 187, 340
+  orig: 187, 340
+  offset: 0, 0
+  index: -1
+deer
+  rotate: false
+  xy: 2, 196
+  size: 668, 340
+  orig: 668, 340
+  offset: 0, 0
+  index: -1
+dog
+  rotate: false
+  xy: 2323, 319
+  size: 254, 340
+  orig: 254, 340
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 672, 196
+  size: 525, 340
+  orig: 525, 340
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 2726, 1121
+  size: 535, 340
+  orig: 535, 340
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2768, 437
+  size: 247, 340
+  orig: 247, 340
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 1199, 196
+  size: 424, 340
+  orig: 424, 340
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 1924, 1463
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+horse
+  rotate: false
+  xy: 1625, 196
+  size: 402, 340
+  orig: 402, 340
+  offset: 0, 0
+  index: -1
+libGDXSplash
+  rotate: false
+  xy: 2052, 2265
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 1924, 661
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 2029, 319
+  size: 292, 340
+  orig: 292, 340
+  offset: 0, 0
+  index: -1
+pumpkin
+  rotate: false
+  xy: 3213, 779
+  size: 326, 340
+  orig: 326, 340
+  offset: 0, 0
+  index: -1
+sheep
+  rotate: false
+  xy: 2726, 779
+  size: 485, 340
+  orig: 485, 340
+  offset: 0, 0
+  index: -1
+underline
+  rotate: false
+  xy: 3334, 2409
+  size: 576, 576
+  orig: 576, 576
+  offset: 0, 0
+  index: -1
